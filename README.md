@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Computer Science student , Vellore Institute of technology</h3>
 
-- 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **harshupadhyay0429@gmail.com**
 
